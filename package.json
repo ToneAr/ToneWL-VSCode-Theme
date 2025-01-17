@@ -9,6 +9,12 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "Tone",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ToneAr/ToneWL-VSCode-Theme.git"
+  },
   "contributes": {
     "themes": [
       {
