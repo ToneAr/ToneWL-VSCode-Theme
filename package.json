@@ -1,8 +1,8 @@
 {
   "name": "tonewl",
   "displayName": "ToneWL",
-  "description": "Dark mode theme with WL support.",
-  "version": "0.0.1",
+  "description": "Dark mode theme with WL support",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.96.0"
   },
