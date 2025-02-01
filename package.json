@@ -2,7 +2,7 @@
   "name": "tonewl",
   "displayName": "ToneWL",
   "description": "Dark mode theme with WL support",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
