@@ -546,22 +546,22 @@
 		"commandCenter.foreground": "#D2D1DB",
 		"commandCenter.background": "#1E1B24",
 		"commandCenter.activeBackground": "#322A44",
-		
+
 		"titleBar.inactiveBackground": "#2A2731",
 		"titleBar.activeBackground": "#2A2731CC",
 		"titleBar.activeForeground": "#E3E0EA",
 		"titleBar.inactiveForeground": "#E3E0EA88",
 
-		"editor.background": "#1a171d",
+		"editor.background": "#171618",
 		"editorCursor.foreground": "#d0faec",
 		"editor.foreground": "#F2F7F8",
-		"editorWhitespace.foreground": "#2A2932",
-		
-		"editor.lineHighlightBackground": "#2F2D39",
+		"editorWhitespace.foreground": "#6c4cd521",
+
+		"editor.lineHighlightBackground": "#5229cd11",
 		"editor.selectionBackground": "#262633",
-		"editor.selectionHighlightBackground": "#55668480",
-		"editor.wordHighlightBackground": "#4A564C80",
-		"editor.wordHighlightStrongBackground": "#6D6A8E80",
+		"editor.selectionHighlightBackground": "#5c558480",
+		"editor.wordHighlightBackground": "#4b4a565c",
+		"editor.wordHighlightStrongBackground": "#6d6a8ea5",
 
 		"activityBar.background": "#24212A",
 		"activityBar.foreground": "#F2F8F6",
@@ -575,19 +575,21 @@
 		"diffEditor.removedTextBackground": "#903B6480",
 		"dropdown.background": "#3B3442",
 		"dropdown.listBackground": "#1E1D22",
-		
+
 		"editorGroup.border": "#393440",
 		"editorGroup.dropBackground": "#403C4B80",
-		"editorGroupHeader.tabsBackground": "#1F1E21",
+		"editorGroupHeader.tabsBackground": "#111112",
 		"editorHoverWidget.background": "#3B3442",
 		"editorHoverWidget.border": "#6A6385",
-		"editorIndentGuide.activeBackground1": "#6E6A77",
-		"editorIndentGuide.background1": "#494352",
-		"editorLineNumber.activeForeground": "#BFBDC2",
-		"editorLineNumber.foreground": "#8C8294",
+		"editorIndentGuide.activeBackground1": "#ffffff9d",
+		"editorIndentGuide.background1": "#3f3c446d",
+		"editorLineNumber.activeForeground": "#ae83ef",
+		"editorLineNumber.foreground": "#afaeaf",
 		"editorSuggestWidget.background": "#29262F",
 		"editorSuggestWidget.border": "#6A6385",
 		"editorWidget.background": "#1C1A1F",
+		"editor.findMatchBackground": "#6449d2",
+		"editor.findMatchHighlightBackground": "#5338be6d",
 
 		"focusBorder": "#6A6385",
 
@@ -653,9 +655,12 @@
 		"terminal.ansiRed": "#C4265E",
 		"terminal.ansiWhite": "#E3E3DD",
 		"terminal.ansiYellow": "#B3B42B",
-		"terminal.background":"#1B1A20",
+		"terminal.background":"#151515",
 
-		"widget.shadow": "#000000B0"
+		"widget.shadow": "#6a39cd70",
+		"scrollbar.shadow": "#4d37714f",
+		"inlineChat.shadow": "#4d37714f",
+		"inlineChat.background": "#ffffff",
 	},
 	"name": "ToneWL"
 }
